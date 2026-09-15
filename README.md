@@ -40,10 +40,9 @@ pip install git+https://github.com/RosemberGuerra/mbpls-em.git
 
 | Paper | Code |
 |---|---|
-| Optimality Conditions for Penalized Sparse PCA (2025) | <!-- TODO: add link --> |
-| Sparsifying the least-squares approach to PCA (2022) | <!-- TODO: add link --> |
-| A Guide for Sparse PCA: Model Comparison and Applications (2021) | <!-- TODO: add link --> |
-| Bayesian treatment effects due to a subsidized health program (2021) | <!-- TODO: add link, or omit row if code isn't public --> |
+| Optimality Conditions for Penalized Sparse PCA (2025) |**[OptimalityConditionsSPCA](https://github.com/RosemberGuerra/OptimalityConditionsSPCA/tree/main)**|
+| Sparsifying the least-squares approach to PCA (2022) | **[CCPCA](https://github.com/RosemberGuerra/CCPCA)** |
+| A Guide for Sparse PCA: Model Comparison and Applications (2021) | **[sparsePCA](https://github.com/RosemberGuerra/sparsePCA)** |
 
 ---
 
