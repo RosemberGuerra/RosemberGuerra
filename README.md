@@ -2,7 +2,7 @@
 
 I'm drawn to the space between rigorous science and real-world use — taking statistical and machine learning methods and turning them into something that actually holds up outside a paper. Most of that work has lived in high-dimensional biological and health data, but the underlying interest is broader: bridging research and practice, in whatever field needs it.
 
-[Email](mailto:rosember.guerra@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rosemberguerra) · [Google Scholar](https://scholar.google.com/citations?user=ummr-i4AAAAJ&hl=en) · [Portfolio](https://claude.ai/artifact/NnTdhFTcEJaq49HrL8dzko) <!-- TODO: swap for your own domain if you host the portfolio elsewhere -->
+[LinkedIn](https://www.linkedin.com/in/rosemberguerra) · [Google Scholar](https://scholar.google.com/citations?user=ummr-i4AAAAJ&hl=en) · [Portfolio]() <!-- TODO: swap for your own domain if you host the portfolio elsewhere -->
 
 ---
 
