@@ -1,5 +1,53 @@
-## Hi there 👋
+<h1 align="left">Rosember Guerra-Urzola</h1>
 
+I'm drawn to the space between rigorous science and real-world use — taking statistical and machine learning methods and turning them into something that actually holds up outside a paper. Most of that work has lived in high-dimensional biological and health data, but the underlying interest is broader: bridging research and practice, in whatever field needs it.
+
+[Email](mailto:rosember.guerra@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rosemberguerra) · [Google Scholar](https://scholar.google.com/citations?user=ummr-i4AAAAJ&hl=en) · [Portfolio](https://claude.ai/artifact/NnTdhFTcEJaq49HrL8dzko) <!-- TODO: swap for your own domain if you host the portfolio elsewhere -->
+
+---
+
+### What I'm doing
+
+🔬 Postdoctoral researcher at Radboud University — statistical/ML methods for high-dimensional multi-omics data integration (SynOD consortium)
+
+📚 Currently building on:Research software engineering practices. 
+
+### What I want
+
+An applied scientist role. I'm someone who moves between research and industry rather than picking one side, developing and translating the latest methods into things that solve real problems. Particularly drawn to health and health-tech, but genuinely open to where the right problem is.
+
+### What I bring
+
+Formal statistical training paired with the software habits to make it usable (packaging, reproducible pipelines, interactive tools) plus a track record of working across disciplines with people who aren't statisticians.
+
+---
+
+### Featured
+
+**[mbpls-em](https://github.com/RosemberGuerra/mbpls-em)** — Probabilistic multi-block PLS with EM estimation, for integrating multi-omics data. Built as part of the SynOD project (alpha-synuclein OMICS to identify drug targets).
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Research%20software-lightgrey)
+
+```
+pip install git+https://github.com/RosemberGuerra/mbpls-em.git
+```
+
+🚀 Interactive app: *coming soon* <!-- TODO: swap for the live Streamlit link once deployed -->
+
+---
+
+### Publications → Code
+
+| Paper | Code |
+|---|---|
+| Optimality Conditions for Penalized Sparse PCA (2025) | <!-- TODO: add link --> |
+| Sparsifying the least-squares approach to PCA (2022) | <!-- TODO: add link --> |
+| A Guide for Sparse PCA: Model Comparison and Applications (2021) | <!-- TODO: add link --> |
+| Bayesian treatment effects due to a subsidized health program (2021) | <!-- TODO: add link, or omit row if code isn't public --> |
+
+---
+
+For the full picture — papers, CV, and background — see the [portfolio site]().
 <!--
 **RosemberGuerra/RosemberGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
