@@ -8,9 +8,12 @@ I'm drawn to the space between rigorous science and real-world use — taking st
 
 ### What I'm doing
 
+<!--
 🔬 Postdoctoral researcher at Radboud University — statistical/ML methods for high-dimensional multi-omics data integration (SynOD consortium)
+-->
+💼 Currently looking for a job
 
-📚 Currently building on:Research software engineering practices. 
+📚 Building on:Research software engineering practices. 
 
 ### What I want
 
