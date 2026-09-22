@@ -34,8 +34,11 @@ Formal statistical training paired with the software habits to make it usable (p
 ```
 pip install git+https://github.com/RosemberGuerra/mbpls-em.git
 ```
+---
+### 🚀 Interactive app:
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/thecraigd/berlin_covid_dashboard/BerlinDashboard.py)
 
-🚀 Interactive app:[Gene Prioritization Explorer](https://gene-prioritization.streamlit.app/) 
+[Gene Prioritization Explorer](https://gene-prioritization.streamlit.app/) 
 
 ---
 
