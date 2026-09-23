@@ -1,47 +1,43 @@
-<h1 align="left">Rosember Guerra-Urzola</h1>
+# Rosember Guerra-Urzola
 
-I'm drawn to the space between rigorous science and real-world use — taking statistical and machine learning methods and turning them into something that actually holds up outside a paper. Most of that work has lived in high-dimensional biological and health data, but the underlying interest is broader: bridging research and practice, in whatever field needs it.
+I operate in the space between rigorous science and real-world engineering — taking advanced statistical and machine learning methods and translating them into robust, reproducible tools that hold up outside a paper. 
 
-[LinkedIn](https://www.linkedin.com/in/rosemberguerra) · [Google Scholar](https://scholar.google.com/citations?user=ummr-i4AAAAJ&hl=en) 
+Most of my work centers on high-dimensional biological and health data, but my core drive is broader: building usable software and interfaces that turn complex mathematical theory into practical decision-making tools.
 
----
-
-### What I'm doing
-
-<!--
-🔬 Postdoctoral researcher at Radboud University — statistical/ML methods for high-dimensional multi-omics data integration (SynOD consortium)
--->
-💼 Currently looking for a job
-
-📚 Building on:Research software engineering practices. 
-
-### What I want
-
-An applied scientist role. I'm someone who moves between research and industry rather than picking one side, developing and translating the latest methods into things that solve real problems. Particularly drawn to health and health-tech, but genuinely open to where the right problem is.
-
-### What I bring
-
-Formal statistical training paired with the software habits to make it usable (packaging, reproducible pipelines, interactive tools) plus a track record of working across disciplines with people who aren't statisticians.
+[LinkedIn](https://www.linkedin.com/in/rosemberguerra) · [Google Scholar](https://scholar.google.com/citations?user=ummr-i4AAAAJ&hl=en) · [Email](mailto:rosember.guerra@gmail.com)
 
 ---
 
-### Featured
+### What I Do & What I'm Building
 
-**[mbpls-em](https://github.com/RosemberGuerra/mbpls-em)** — Probabilistic multi-block PLS with EM estimation, for integrating multi-omics data. Built as part of the SynOD project (alpha-synuclein OMICS to identify drug targets).
+* 🔬 **Focus Areas:** Statistical learning, high-dimensional estimation, optimization, and probabilistic data integration.
+* 🛠️ **Research Software Engineering:** Packaging modular Python/R code, designing reproducible scientific workflows, and building interactive web tools for domain experts.
+* 🤝 **Interdisciplinary Translation:** Bridging deep theory with non-technical stakeholders across biology, healthcare, and applied data science.
+* 🎯 **Current Focus:** Open to Applied Scientist, Machine Learning Researcher, and quantitative problem-solving roles across academia, health-tech, and industry.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Research%20software-lightgrey)
+---
+### 🚀 Gene Prioritization Explorer
 
+An interactive web application designed for biologists and clinical researchers to explore, filter, and prioritize multi-omics integration targets interactively without writing code.
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gene-prioritization.streamlit.app/)
+
+👉 **Live App:** [gene-prioritization.streamlit.app](https://gene-prioritization.streamlit.app/)  
+
+
+### Featured Work & Tools
+
+#### 📦 [mbpls-em](https://github.com/RosemberGuerra/mbpls-em)
+Probabilistic multi-block partial least squares (MB-PLS) with EM estimation for integrating heterogeneous multi-omics data. Developed as part of the multi-center EU SynOD consortium.
+
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white) 
+![License](https://img.shields.io/badge/License-MIT-green) 
+![Status](https://img.shields.io/badge/Status-Research%20Software-lightgrey)
+
+```bash
+pip install git+[https://github.com/RosemberGuerra/mbpls-em.git](https://github.com/RosemberGuerra/mbpls-em.git)
 ```
-pip install git+https://github.com/RosemberGuerra/mbpls-em.git
-```
 ---
-### 🚀 Interactive app:
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/thecraigd/berlin_covid_dashboard/BerlinDashboard.py)
-
-[Gene Prioritization Explorer](https://gene-prioritization.streamlit.app/) 
-
----
-
 ### Publications → Code
 
 | Paper | Code |
@@ -50,7 +46,6 @@ pip install git+https://github.com/RosemberGuerra/mbpls-em.git
 | Sparsifying the least-squares approach to PCA (2022) | **[CCPCA](https://github.com/RosemberGuerra/CCPCA)** |
 | A Guide for Sparse PCA: Model Comparison and Applications (2021) | **[sparsePCA](https://github.com/RosemberGuerra/sparsePCA)** |
 
----
 
 
 <!--
