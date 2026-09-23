@@ -2,7 +2,7 @@
 
 I'm drawn to the space between rigorous science and real-world use — taking statistical and machine learning methods and turning them into something that actually holds up outside a paper. Most of that work has lived in high-dimensional biological and health data, but the underlying interest is broader: bridging research and practice, in whatever field needs it.
 
-[LinkedIn](https://www.linkedin.com/in/rosemberguerra) · [Google Scholar](https://scholar.google.com/citations?user=ummr-i4AAAAJ&hl=en) · [Portfolio]() <!-- TODO: swap for your own domain if you host the portfolio elsewhere -->
+[LinkedIn](https://www.linkedin.com/in/rosemberguerra) · [Google Scholar](https://scholar.google.com/citations?user=ummr-i4AAAAJ&hl=en) 
 
 ---
 
@@ -52,8 +52,9 @@ pip install git+https://github.com/RosemberGuerra/mbpls-em.git
 
 ---
 
-For the full picture — papers, CV, and background — see the [portfolio site]().
+
 <!--
+For the full picture — papers, CV, and background — see the [portfolio site]().
 **RosemberGuerra/RosemberGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
