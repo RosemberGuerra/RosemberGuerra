@@ -35,7 +35,7 @@ Probabilistic multi-block partial least squares (MB-PLS) with EM estimation for 
 ![Status](https://img.shields.io/badge/Status-Research%20Software-lightgrey)
 
 ```bash
-pip install git+[https://github.com/RosemberGuerra/mbpls-em.git](https://github.com/RosemberGuerra/mbpls-em.git)
+pip install git+https://github.com/RosemberGuerra/mbpls-em.git
 ```
 ---
 ### Publications → Code
